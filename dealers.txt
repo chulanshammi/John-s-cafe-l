@@ -1,0 +1,1 @@
+{1: ['Anne', '0716482642', 'Colombo'], 2: ['Roy', '0789214625', 'Kadawatha'], 3: ['Tom', '0775468291', 'Gampaha'], 4: ['Jerry', '0339554561', 'Kadawatha'], 5: ['John', '0116646175', 'Veyangoda'], 6: ['Lisa', '0334635975', 'Moratuwa']}
